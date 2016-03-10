@@ -1,0 +1,37 @@
+{
+  "name": "Bönen, eine Gemeinde vernetzt sich!",
+  "url": "https://www.facebook.com/freifunkboenen/",
+  "location": {
+    "city": "Boenen",
+    "country": "DE",
+    "lat": 51.5941077,
+    "lon": 7.6983,
+    "address": {
+      "Name": "Bäckerei Cafe Grobe",
+      "Street": " Bahnhofstraße 75",
+      "Zipcode": "59199"
+    }
+  },
+  "contact": {
+    "email": "klaus@hohlweg.net",
+    "phone": "+49 2383 9670387",
+    "facebook": "https://www.facebook.com/freifunkboenen",
+    "twitter": "@ffboenen"
+  },
+  "metacommunity": "Freifunk Ruhrgebiet",
+  "state": {
+    "nodes": 4,
+    "description": "Wir haben die Vision das Internet über ein freies selbst organisiertes Funknetz in unserer GemeindeWir haben die Vision das Internet über ein freies selbst organisiertes Funknetz in unserer Gemeinde für alle an jedem Platz zugänglich zu machen. für alle an jedem Platz zugänglich zu machen.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi"
+    ],
+    "lastchange": "2016-03-10T23:15:30.590Z"
+  },
+  "api": "0.4.12",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
