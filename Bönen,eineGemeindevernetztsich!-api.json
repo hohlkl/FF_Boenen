@@ -21,7 +21,7 @@
   "metacommunity": "Freifunk Ruhrgebiet",
   "state": {
     "nodes": 4,
-    "description": "Wir haben die Vision das Internet über ein freies selbst organisiertes Funknetz in unserer GemeindeWir haben die Vision das Internet über ein freies selbst organisiertes Funknetz in unserer Gemeinde für alle an jedem Platz zugänglich zu machen. für alle an jedem Platz zugänglich zu machen.",
+    "description": "Wir haben die Vision das Internet über ein freies selbst organisiertes Funknetz in unserer Gemeinde für alle an jedem Platz zugänglich zu machen.",
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi"
