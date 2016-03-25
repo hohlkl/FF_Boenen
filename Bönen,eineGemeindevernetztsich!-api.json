@@ -4,8 +4,8 @@
   "location": {
     "city": "Boenen",
     "country": "DE",
-    "lat": 51.5941077,
-    "lon": 7.6983,
+    "lat": 51.598611,
+    "lon": 7.759167,
     "address": {
       "Name": "Bäckerei Cafe Grobe",
       "Street": " Bahnhofstraße 75",
@@ -13,14 +13,14 @@
     }
   },
   "contact": {
-    "email": "klaus@hohlweg.net",
+    "email": "klaus.hohlweg@freifunk-boenen.de",
     "phone": "+49 2383 9670387",
     "facebook": "https://www.facebook.com/freifunkboenen",
     "twitter": "@ffboenen"
   },
   "metacommunity": "Freifunk Ruhrgebiet",
   "state": {
-    "nodes": 4,
+    "nodes": 5,
     "description": "Wir haben die Vision das Internet über ein freies selbst organisiertes Funknetz in unserer Gemeinde für alle an jedem Platz zugänglich zu machen.",
     "focus": [
       "infrastructure/backbone",
